@@ -7,7 +7,7 @@ One of my many favourite foods are green bananas and curry chicken
 I like to eat french fries with a single stick dipped in catch-up at a time.
 Love to share the Lord with others.
 I love exploring new things with a fright.
-after listing we will create an environment with python in vscode and 
+After listing it all, we will create an environment with python in vscode and 
 git add, commit and push from vscode to GitHub.
 
 
