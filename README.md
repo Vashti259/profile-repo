@@ -1,5 +1,5 @@
 ## Profile-Repo
-Name: Vashti Gambol
+##Name: Vashti Gambol
 Date: March 4th, 2024
 Programe: Data Analytics
 My Profile Repo will be about my me as we build a model of the things I like to do.
